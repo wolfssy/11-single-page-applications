@@ -7,6 +7,6 @@ var app = app || {};
   // code that used to be in index.html.
   // Also be sure to hide all the main section elements, and reveal the #articles section:
 
-
+console.log('over it');
   module.articleController = articleController;
 })(app);
